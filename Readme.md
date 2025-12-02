@@ -28,3 +28,4 @@ https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch?select
 
 I merged these two datasets by game name to get a richer feature set.
 
+## important tip: don't upload big file(more than 100mb) to github, it will boom your project. download the data and add it in you own computer
