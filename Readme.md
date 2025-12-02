@@ -26,6 +26,5 @@ https://www.kaggle.com/datasets/fronkongames/steam-games-dataset?resource=downlo
 Monthly top 200 games on the platform
 https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch?select=Twitch_game_data.csv
 
-I merged these two datasets by game name to get a richer feature set. Using two sources also gets me the bonus points for "Build dataset from 2 or more sources."
-
+I merged these two datasets by game name to get a richer feature set.
 
