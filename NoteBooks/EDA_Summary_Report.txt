@@ -1,0 +1,47 @@
+
+
+EDA summary
+--------------------------------------------------
+
+1. data information:
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   • Games numbers: 1,189
+   • Success games: 592 (49.8%)
+   • fail games: 597 (50.2%)
+   • balance : good 
+
+2. key feature to success (Top 5):
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   1. positive_ratio                 Correlation coefficient:  0.700
+   2. Metacritic_score               Correlation coefficient:  0.257
+   3. platform_count                 Correlation coefficient:  0.256
+   4. is_free                        Correlation coefficient: -0.230
+   5. community_engagement           Correlation coefficient:  0.180
+
+3. success game vs fail game - major difference:
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   Steam features:
+   • positive rates:   success 0.92 | fail 0.73
+   • comments numbers:   success 61686 | fail 28724
+   • Game duration: success 1632min | fail 1341min
+
+   Twitch features:
+   • watch duration: success 25624369 | fail 36759393
+   • avg viewer: success 1966 | fail 2322
+
+4. price:
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   • free game success rate: 19.5%
+   • paid game success rate: 54.1%
+   • success game avg price: $22.23
+   • fail game avg price: $22.73
+
+5. platforms influence:
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   • 1 platforms: success rate 41.3%
+   • 2 platforms: success rate 64.9%
+   • 3 platforms: success rate 72.7%
+
+
+======================================================================
