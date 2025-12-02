@@ -20,7 +20,7 @@ I used two Kaggle datasets:
 
 Information of more than 110,000 games published on Steam.
 https://www.kaggle.com/datasets/fronkongames/steam-games-dataset?resource=download
-
+(You need to download this data to run this project)
 ### Top games on Twitch 2016 - 2023:
 
 Monthly top 200 games on the platform
