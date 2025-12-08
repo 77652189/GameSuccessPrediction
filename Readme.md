@@ -37,4 +37,4 @@ How to run this project:
 
 ## important tip: don't upload big file(more than 100mb) to github, it will boom your project. download the data and add it in you own computer
 (https://gamma.app/docs/Game-Success-Prediction-Steam-Twitch-xtyxo5ogqvz6512?mode=present#card-jhoevtjv81nus25)
-URL for slides
+URL for slides.
