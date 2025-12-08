@@ -28,4 +28,11 @@ https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch?select
 
 I merged these two datasets by game name to get a richer feature set.
 
+
+How to run this project:
+1. download data from the URL i share or use my cleaned data, also download my project.
+2. check the requirement.txt on /app
+3. use your terminal under this project. try cd app ,then streamlit run app.py.
+
+
 ## important tip: don't upload big file(more than 100mb) to github, it will boom your project. download the data and add it in you own computer
